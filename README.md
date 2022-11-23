@@ -1,17 +1,16 @@
 ## :black_nib: :computer: 글쓰는 개발자
 
 
-#### :mortar_board: 전공
+### :mortar_board: 전공
 
----
 
 **일본문화 전공**
 
 
-
-#### :page_with_curl: 글
-
 ---
+
+### :page_with_curl: 글
+
 
 **교내 학보사 활동 : 대학신문** 
 
@@ -31,10 +30,10 @@
 | [150년 전의 명치(明治), 현대 일본의 등불이 될 수 있을까](http://www.snunews.com/news/articleView.html?idxno=18091) - 메이지유신 150주년 기념 |
 
 
-
-#### :iphone: 개발
-
 ---
+
+### :iphone: 개발
+
 
 #### SSAFY (삼성 청년 소프트웨어 아카데미) 7기
 
@@ -51,10 +50,10 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white) ![React Native](https://img.shields.io/badge/ReactNative-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
 
 
-
-#### :sunflower: Git Status
-
 ---
+
+### :sunflower: Git Status
+
 
 [![Hyunjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjung20222&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
