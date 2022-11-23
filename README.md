@@ -1,6 +1,5 @@
 ## :black_nib: :computer: 글쓰는 개발자
 
----
 
 #### :mortar_board: 전공
 
